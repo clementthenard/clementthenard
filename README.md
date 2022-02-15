@@ -1,6 +1,6 @@
 ### Hi, Clement here 👋
 
-💻 at Seafrigo Group and I'm a junior full stack developer. 
+💻 Full stack developer at Seafrigo Group. 
 
 🔭 I’m currently learning :
 - VueJS
