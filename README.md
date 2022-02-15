@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, Clement here 👋
 
-<!--
-**clementthenard/clementthenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 at Seafrigo Group and I'm a junior full stack developer. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on :
+- VueJS
+- Express
+- NodeJS
+- SASS
+
+
+🤔 I want to improve my skills on :
+- PHP Framework
+- React
+- Angular
+
+
+📫 How to reach me: hello@clementthenard.fr
